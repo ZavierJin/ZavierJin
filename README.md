@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!--
-[![ZavierJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZavierJin&count_private=true&show_icons=true&include_all_commits=tru)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZavierJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ZavierJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zavierjin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZavierJin&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavierJin&layout=compact&hide_border=true&count_private=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zavierjin&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 <!--
