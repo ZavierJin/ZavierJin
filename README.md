@@ -4,7 +4,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zavierjin&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&hide_border=true&count_private=true" /></a> |
+<!--
+<p align="left">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=zavierjin&count_private=true&show_icons=true&include_all_commits=true" align = "center"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zavierjin&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" align = "center"/>
+</p>
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=zavierjin&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="ZavierJin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&hide_border=true&count_private=true" /></a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zavierjin&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="ZavierJin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 <!--
