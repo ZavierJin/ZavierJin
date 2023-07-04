@@ -10,9 +10,11 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zavierjin&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" align = "center"/>
 </p>
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&langs_count=6&include_all_commits=true&count_private=true&exclude_repo=Pulse-Oximeter)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=zavierjin&show_icons=true&hide_border=true&count_private=true" alt="ZavierJin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavierjin&layout=compact&langs_count=6&include_all_commits=true&count_private=true&hide_border=true&exclude_repo=Pulse-Oximeter" /></a> |
 | ------------- | ------------- |
+-->
 
 <!--
 **ZavierJin/ZavierJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
